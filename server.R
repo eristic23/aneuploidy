@@ -15,9 +15,12 @@
 # varying plate layouts as long as your samples and assays are correctly labled on the instrument.
 #
 # 
-# Included is the file "example.txt" which is an example of the the data exported from the 7900HT.
+# The intent is to load new files, but for conveninces of grading I've added a default example file.
+# The app should default to opening "example.txt" a file with samples labled 1, 2, 3, and wt.  Samples 1 and 2 have a base ploidy
+# of 2.  Samples 3 and wt have a base ploidy of 1. wt is the intended wt control.  The wt graph has been set to 1 mathmatically
+# so the graph of it is a little unessessary, but was easier than trying to make it conditinally displayed.
 # 
-#With a little tweaking datasetInput could be generalizable to parsing exported SDS files of any type of experment.
+# With a little tweaking datasetInput could be generalizable to parsing exported SDS files for other qPCR experiments.
 
 library(shiny)
 library(dplyr)
@@ -33,7 +36,8 @@ shinyServer(function(input, output, clientData, session) {
     
     ## Check if User has imported a File yet
     if (is.null(infile)) {
-      return(NULL)
+      infile <- list()
+      infile$datapath <- "example.txt"
     }
     
     table <- read.csv(infile$datapath, skip = 10, header = TRUE, sep = "\t", as.is = TRUE )
