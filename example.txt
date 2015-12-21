@@ -1,0 +1,589 @@
+SDS 2.4	AQ Results	1.0
+Filename	A305IXR7
+PlateID	A306B9FL
+Assay Type	Absolute Quantification
+Run DateTime	3/19/14 6:10:58 PM
+Operator	
+ThermalCycleParams	
+
+Sample Information
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+2	1	chr01La	SYBR	Unknown	21.347704	77.1	Auto Tm				21.23606	21.261236	0.077031076	Automatic Ct		Automatic			Automatic	1.3854928													
+10	1	chr01La	SYBR	Unknown	21.23606	77.6	Auto Tm				21.23606	21.261236	0.077031076	Automatic Ct		Automatic			Automatic	1.3854928					true								
+18	1	chr01La	SYBR	Unknown	21.199942	77.8	Auto Tm				21.23606	21.261236	0.077031076	Automatic Ct		Automatic			Automatic	1.3854928					true								
+25	2	chr01La	SYBR	Unknown	20.986023	77.1	Auto Tm				20.913296	20.925793	0.055056	Automatic Ct		Automatic			Automatic	1.3854928													
+33	2	chr01La	SYBR	Unknown	20.913296	77.8	Auto Tm				20.913296	20.925793	0.055056	Automatic Ct		Automatic			Automatic	1.3854928					true								
+41	2	chr01La	SYBR	Unknown	20.87806	78.0	Auto Tm				20.913296	20.925793	0.055056	Automatic Ct		Automatic			Automatic	1.3854928					true								
+26	3	chr01La	SYBR	Unknown	22.600256	77.1	Auto Tm				22.409994	22.458557	0.12472282	Automatic Ct		Automatic			Automatic	1.3854928													
+34	3	chr01La	SYBR	Unknown	22.409994	77.8	Auto Tm				22.409994	22.458557	0.12472282	Automatic Ct		Automatic			Automatic	1.3854928													
+42	3	chr01La	SYBR	Unknown	22.36542	78.0	Auto Tm				22.409994	22.458557	0.12472282	Automatic Ct		Automatic			Automatic	1.3854928					true								
+1	wt	chr01La	SYBR	Unknown	22.158155	76.8	Auto Tm				22.035763	22.072031	0.07489473	Automatic Ct		Automatic			Automatic	1.3854928													
+9	wt	chr01La	SYBR	Unknown	22.035763	77.6	Auto Tm				22.035763	22.072031	0.07489473	Automatic Ct		Automatic			Automatic	1.3854928					true								
+17	wt	chr01La	SYBR	Unknown	22.022175	77.8	Auto Tm				22.035763	22.072031	0.07489473	Automatic Ct		Automatic			Automatic	1.3854928					true								
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+4	1	chr01Ra	SYBR	Unknown	21.09575	76.0	Auto Tm				21.111725	21.118637	0.027013993	Automatic Ct		Automatic			Automatic	1.0236193													
+12	1	chr01Ra	SYBR	Unknown	21.111725	76.5	Auto Tm				21.111725	21.118637	0.027013993	Automatic Ct		Automatic			Automatic	1.0236193													
+20	1	chr01Ra	SYBR	Unknown	21.148436	76.1	Auto Tm				21.111725	21.118637	0.027013993	Automatic Ct		Automatic			Automatic	1.0236193													
+27	2	chr01Ra	SYBR	Unknown	20.785702	76.0	Auto Tm				20.800528	20.81574	0.03988635	Automatic Ct		Automatic			Automatic	1.0236193													
+35	2	chr01Ra	SYBR	Unknown	20.800528	76.5	Auto Tm				20.800528	20.81574	0.03988635	Automatic Ct		Automatic			Automatic	1.0236193													
+43	2	chr01Ra	SYBR	Unknown	20.860996	76.4	Auto Tm				20.800528	20.81574	0.03988635	Automatic Ct		Automatic			Automatic	1.0236193													
+28	3	chr01Ra	SYBR	Unknown	22.269777	76.0	Auto Tm				22.269777	22.271584	0.029315779	Automatic Ct		Automatic			Automatic	1.0236193													
+36	3	chr01Ra	SYBR	Unknown	22.243214	76.7	Auto Tm				22.269777	22.271584	0.029315779	Automatic Ct		Automatic			Automatic	1.0236193													
+44	3	chr01Ra	SYBR	Unknown	22.301762	76.4	Auto Tm				22.269777	22.271584	0.029315779	Automatic Ct		Automatic			Automatic	1.0236193													
+3	wt	chr01Ra	SYBR	Unknown	21.894129	75.7	Auto Tm				21.894129	21.900827	0.019236635	Automatic Ct		Automatic			Automatic	1.0236193													
+11	wt	chr01Ra	SYBR	Unknown	21.922518	76.5	Auto Tm				21.894129	21.900827	0.019236635	Automatic Ct		Automatic			Automatic	1.0236193													
+19	wt	chr01Ra	SYBR	Unknown	21.885836	76.1	Auto Tm				21.894129	21.900827	0.019236635	Automatic Ct		Automatic			Automatic	1.0236193													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+50	1	chr02La	SYBR	Unknown	20.899632	77.9	Auto Tm				20.796827	20.825525	0.06472079	Automatic Ct		Automatic			Automatic	0.7204082													
+58	1	chr02La	SYBR	Unknown	20.780113	78.6	Auto Tm				20.796827	20.825525	0.06472079	Automatic Ct		Automatic			Automatic	0.7204082													
+66	1	chr02La	SYBR	Unknown	20.796827	78.8	Auto Tm				20.796827	20.825525	0.06472079	Automatic Ct		Automatic			Automatic	0.7204082													
+73	2	chr02La	SYBR	Unknown	21.31202	77.9	Auto Tm				21.253515	21.264973	0.04249267	Automatic Ct		Automatic			Automatic	0.7204082													
+81	2	chr02La	SYBR	Unknown	21.253515	78.6	Auto Tm				21.253515	21.264973	0.04249267	Automatic Ct		Automatic			Automatic	0.7204082													
+89	2	chr02La	SYBR	Unknown	21.229383	78.8	Auto Tm				21.253515	21.264973	0.04249267	Automatic Ct		Automatic			Automatic	0.7204082													
+74	3	chr02La	SYBR	Unknown	20.872988	78.2	Auto Tm				20.85853	20.853144	0.023014916	Automatic Ct		Automatic			Automatic	0.7204082													
+82	3	chr02La	SYBR	Unknown	20.85853	78.6	Auto Tm				20.85853	20.853144	0.023014916	Automatic Ct		Automatic			Automatic	0.7204082													
+90	3	chr02La	SYBR	Unknown	20.827913	78.8	Auto Tm				20.85853	20.853144	0.023014916	Automatic Ct		Automatic			Automatic	0.7204082													
+49	wt	chr02La	SYBR	Unknown	21.464546	77.9	Auto Tm				21.441093	21.442368	0.021568913	Automatic Ct		Automatic			Automatic	0.7204082													
+57	wt	chr02La	SYBR	Unknown	21.441093	78.6	Auto Tm				21.441093	21.442368	0.021568913	Automatic Ct		Automatic			Automatic	0.7204082													
+65	wt	chr02La	SYBR	Unknown	21.421465	78.6	Auto Tm				21.441093	21.442368	0.021568913	Automatic Ct		Automatic			Automatic	0.7204082													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+52	1	chr02Ra	SYBR	Unknown	22.2677	79.5	Auto Tm				22.261518	22.255621	0.015873268	Automatic Ct		Automatic			Automatic	1.2019023													
+60	1	chr02Ra	SYBR	Unknown	22.237642	80.2	Auto Tm				22.261518	22.255621	0.015873268	Automatic Ct		Automatic			Automatic	1.2019023													
+68	1	chr02Ra	SYBR	Unknown	22.261518	79.9	Auto Tm				22.261518	22.255621	0.015873268	Automatic Ct		Automatic			Automatic	1.2019023													
+75	2	chr02Ra	SYBR	Unknown	22.831808	79.8	Auto Tm				22.831808	22.832102	0.036786012	Automatic Ct		Automatic			Automatic	1.2019023													
+83	2	chr02Ra	SYBR	Unknown	22.795465	80.2	Auto Tm				22.831808	22.832102	0.036786012	Automatic Ct		Automatic			Automatic	1.2019023													
+91	2	chr02Ra	SYBR	Unknown	22.869036	79.9	Auto Tm				22.831808	22.832102	0.036786012	Automatic Ct		Automatic			Automatic	1.2019023													
+76	3	chr02Ra	SYBR	Unknown	22.354607	79.8	Auto Tm				22.354607	22.349016	0.017647423	Automatic Ct		Automatic			Automatic	1.2019023													
+84	3	chr02Ra	SYBR	Unknown	22.363194	80.2	Auto Tm				22.354607	22.349016	0.017647423	Automatic Ct		Automatic			Automatic	1.2019023													
+92	3	chr02Ra	SYBR	Unknown	22.329252	79.9	Auto Tm				22.354607	22.349016	0.017647423	Automatic Ct		Automatic			Automatic	1.2019023													
+51	wt	chr02Ra	SYBR	Unknown	22.928856	79.5	Auto Tm				22.928856	22.929367	0.024245478	Automatic Ct		Automatic			Automatic	1.2019023													
+59	wt	chr02Ra	SYBR	Unknown	22.90538	80.2	Auto Tm				22.928856	22.929367	0.024245478	Automatic Ct		Automatic			Automatic	1.2019023													
+67	wt	chr02Ra	SYBR	Unknown	22.953863	79.9	Auto Tm				22.928856	22.929367	0.024245478	Automatic Ct		Automatic			Automatic	1.2019023													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+98	1	chr03La	SYBR	Unknown	21.835318	76.8	Auto Tm				21.813107	21.797232	0.048032895	Automatic Ct		Automatic			Automatic	0.6706647													
+106	1	chr03La	SYBR	Unknown	21.74327	77.3	Auto Tm				21.813107	21.797232	0.048032895	Automatic Ct		Automatic			Automatic	0.6706647													
+114	1	chr03La	SYBR	Unknown	21.813107	77.5	Auto Tm				21.813107	21.797232	0.048032895	Automatic Ct		Automatic			Automatic	0.6706647													
+121	2	chr03La	SYBR	Unknown	21.250883	76.8	Auto Tm				21.333452	21.363314	0.12996134	Automatic Ct		Automatic			Automatic	0.6706647													
+129	2	chr03La	SYBR	Unknown	21.505608	77.6	Auto Tm				21.333452	21.363314	0.12996134	Automatic Ct		Automatic			Automatic	0.6706647													
+137	2	chr03La	SYBR	Unknown	21.333452	77.5	Auto Tm				21.333452	21.363314	0.12996134	Automatic Ct		Automatic			Automatic	0.6706647													
+122	3	chr03La	SYBR	Unknown	20.872553	77.1	Auto Tm				20.872553	20.863836	0.027778747	Automatic Ct		Automatic			Automatic	0.6706647													
+130	3	chr03La	SYBR	Unknown	20.832745	77.6	Auto Tm				20.872553	20.863836	0.027778747	Automatic Ct		Automatic			Automatic	0.6706647													
+138	3	chr03La	SYBR	Unknown	20.886211	77.5	Auto Tm				20.872553	20.863836	0.027778747	Automatic Ct		Automatic			Automatic	0.6706647													
+97	wt	chr03La	SYBR	Unknown	21.475	76.8	Auto Tm				21.491383	21.530838	0.082933895	Automatic Ct		Automatic			Automatic	0.6706647													
+105	wt	chr03La	SYBR	Unknown	21.491383	77.3	Auto Tm				21.491383	21.530838	0.082933895	Automatic Ct		Automatic			Automatic	0.6706647													
+113	wt	chr03La	SYBR	Unknown	21.626135	77.5	Auto Tm				21.491383	21.530838	0.082933895	Automatic Ct		Automatic			Automatic	0.6706647													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+100	1	chr03Ra	SYBR	Unknown	22.81956	79.0	Auto Tm				22.81956	22.813147	0.03236806	Automatic Ct		Automatic			Automatic	1.5148427													
+108	1	chr03Ra	SYBR	Unknown	22.778051	79.4	Auto Tm				22.81956	22.813147	0.03236806	Automatic Ct		Automatic			Automatic	1.5148427													
+116	1	chr03Ra	SYBR	Unknown	22.841827	79.1	Auto Tm				22.81956	22.813147	0.03236806	Automatic Ct		Automatic			Automatic	1.5148427													
+123	2	chr03Ra	SYBR	Unknown	22.272017	79.0	Auto Tm				22.282347	22.294046	0.029663788	Automatic Ct		Automatic			Automatic	1.5148427													
+131	2	chr03Ra	SYBR	Unknown	22.282347	79.4	Auto Tm				22.282347	22.294046	0.029663788	Automatic Ct		Automatic			Automatic	1.5148427													
+139	2	chr03Ra	SYBR	Unknown	22.327776	79.4	Auto Tm				22.282347	22.294046	0.029663788	Automatic Ct		Automatic			Automatic	1.5148427													
+124	3	chr03Ra	SYBR	Unknown	21.877466	79.2	Auto Tm				21.897114	21.911192	0.042547904	Automatic Ct		Automatic			Automatic	1.5148427													
+132	3	chr03Ra	SYBR	Unknown	21.897114	79.7	Auto Tm				21.897114	21.911192	0.042547904	Automatic Ct		Automatic			Automatic	1.5148427								true					
+140	3	chr03Ra	SYBR	Unknown	21.958994	79.1	Auto Tm				21.897114	21.911192	0.042547904	Automatic Ct		Automatic			Automatic	1.5148427													
+99	wt	chr03Ra	SYBR	Unknown	22.456612	79.0	Auto Tm				22.532642	22.507463	0.044040218	Automatic Ct		Automatic			Automatic	1.5148427													
+107	wt	chr03Ra	SYBR	Unknown	22.532642	78.6	Auto Tm				22.532642	22.507463	0.044040218	Automatic Ct		Automatic			Automatic	1.5148427													
+115	wt	chr03Ra	SYBR	Unknown	22.533138	79.4	Auto Tm				22.532642	22.507463	0.044040218	Automatic Ct		Automatic			Automatic	1.5148427													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+146	1	chr04La	SYBR	Unknown	22.89973	77.9	Auto Tm				22.800829	22.827011	0.0637927	Automatic Ct		Automatic			Automatic	1.3246483													
+154	1	chr04La	SYBR	Unknown	22.800829	78.3	Auto Tm				22.800829	22.827011	0.0637927	Automatic Ct		Automatic			Automatic	1.3246483													
+162	1	chr04La	SYBR	Unknown	22.780478	78.3	Auto Tm				22.800829	22.827011	0.0637927	Automatic Ct		Automatic			Automatic	1.3246483													
+169	2	chr04La	SYBR	Unknown	22.21396	77.9	Auto Tm				22.262571	22.258139	0.0421369	Automatic Ct		Automatic			Automatic	1.3246483													
+177	2	chr04La	SYBR	Unknown	22.262571	78.4	Auto Tm				22.262571	22.258139	0.0421369	Automatic Ct		Automatic			Automatic	1.3246483					true								
+185	2	chr04La	SYBR	Unknown	22.297884	78.3	Auto Tm				22.262571	22.258139	0.0421369	Automatic Ct		Automatic			Automatic	1.3246483					true								
+170	3	chr04La	SYBR	Unknown	21.977507	77.9	Auto Tm				21.977507	21.97714	0.010219744	Automatic Ct		Automatic			Automatic	1.3246483													
+178	3	chr04La	SYBR	Unknown	21.966742	78.3	Auto Tm				21.977507	21.97714	0.010219744	Automatic Ct		Automatic			Automatic	1.3246483					true								
+186	3	chr04La	SYBR	Unknown	21.987171	78.3	Auto Tm				21.977507	21.97714	0.010219744	Automatic Ct		Automatic			Automatic	1.3246483					true								
+145	wt	chr04La	SYBR	Unknown	22.467615	77.6	Auto Tm				22.499262	22.496925	0.028214628	Automatic Ct		Automatic			Automatic	1.3246483													
+153	wt	chr04La	SYBR	Unknown	22.499262	78.4	Auto Tm				22.499262	22.496925	0.028214628	Automatic Ct		Automatic			Automatic	1.3246483													
+161	wt	chr04La	SYBR	Unknown	22.5239	78.3	Auto Tm				22.499262	22.496925	0.028214628	Automatic Ct		Automatic			Automatic	1.3246483													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+148	1	chr04Rc	SYBR	Unknown	22.412415	77.9	Auto Tm				22.437048	22.455805	0.055211257	Automatic Ct		Automatic			Automatic	1.2577635													
+156	1	chr04Rc	SYBR	Unknown	22.437048	78.3	Auto Tm				22.437048	22.455805	0.055211257	Automatic Ct		Automatic			Automatic	1.2577635													
+164	1	chr04Rc	SYBR	Unknown	22.51795	78.0	Auto Tm				22.437048	22.455805	0.055211257	Automatic Ct		Automatic			Automatic	1.2577635													
+171	2	chr04Rc	SYBR	Unknown	21.958689	78.2	Auto Tm				21.958689	21.957285	0.031463258	Automatic Ct		Automatic			Automatic	1.2577635													
+179	2	chr04Rc	SYBR	Unknown	21.925144	78.3	Auto Tm				21.958689	21.957285	0.031463258	Automatic Ct		Automatic			Automatic	1.2577635													
+187	2	chr04Rc	SYBR	Unknown	21.988024	78.3	Auto Tm				21.958689	21.957285	0.031463258	Automatic Ct		Automatic			Automatic	1.2577635													
+172	3	chr04Rc	SYBR	Unknown	21.52866	78.2	Auto Tm				21.592237	21.576996	0.04280213	Automatic Ct		Automatic			Automatic	1.2577635													
+180	3	chr04Rc	SYBR	Unknown	21.592237	78.3	Auto Tm				21.592237	21.576996	0.04280213	Automatic Ct		Automatic			Automatic	1.2577635													
+188	3	chr04Rc	SYBR	Unknown	21.610092	78.0	Auto Tm				21.592237	21.576996	0.04280213	Automatic Ct		Automatic			Automatic	1.2577635													
+147	wt	chr04Rc	SYBR	Unknown	22.106318	77.9	Auto Tm				22.106318	22.127356	0.038863778	Automatic Ct		Automatic			Automatic	1.2577635													
+155	wt	chr04Rc	SYBR	Unknown	22.103546	78.3	Auto Tm				22.106318	22.127356	0.038863778	Automatic Ct		Automatic			Automatic	1.2577635													
+163	wt	chr04Rc	SYBR	Unknown	22.172203	78.0	Auto Tm				22.106318	22.127356	0.038863778	Automatic Ct		Automatic			Automatic	1.2577635													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+194	1	chr05La	SYBR	Unknown	22.02989	76.5	Auto Tm				21.939758	21.953718	0.07024271	Automatic Ct		Automatic			Automatic	1.0213561													
+202	1	chr05La	SYBR	Unknown	21.8915	77.0	Auto Tm				21.939758	21.953718	0.07024271	Automatic Ct		Automatic			Automatic	1.0213561													
+210	1	chr05La	SYBR	Unknown	21.939758	77.0	Auto Tm				21.939758	21.953718	0.07024271	Automatic Ct		Automatic			Automatic	1.0213561													
+217	2	chr05La	SYBR	Unknown	21.66523	76.6	Auto Tm				21.585926	21.606806	0.051278852	Automatic Ct		Automatic			Automatic	1.0213561													
+225	2	chr05La	SYBR	Unknown	21.585926	77.0	Auto Tm				21.585926	21.606806	0.051278852	Automatic Ct		Automatic			Automatic	1.0213561													
+233	2	chr05La	SYBR	Unknown	21.56926	77.0	Auto Tm				21.585926	21.606806	0.051278852	Automatic Ct		Automatic			Automatic	1.0213561													
+218	3	chr05La	SYBR	Unknown	21.233643	76.3	Auto Tm				21.11341	21.139202	0.08454853	Automatic Ct		Automatic			Automatic	1.0213561													
+226	3	chr05La	SYBR	Unknown	21.11341	77.0	Auto Tm				21.11341	21.139202	0.08454853	Automatic Ct		Automatic			Automatic	1.0213561													
+234	3	chr05La	SYBR	Unknown	21.070553	77.0	Auto Tm				21.11341	21.139202	0.08454853	Automatic Ct		Automatic			Automatic	1.0213561													
+193	wt	chr05La	SYBR	Unknown	21.919956	76.3	Auto Tm				21.779348	21.811865	0.09605669	Automatic Ct		Automatic			Automatic	1.0213561													
+201	wt	chr05La	SYBR	Unknown	21.779348	76.8	Auto Tm				21.779348	21.811865	0.09605669	Automatic Ct		Automatic			Automatic	1.0213561													
+209	wt	chr05La	SYBR	Unknown	21.736282	76.7	Auto Tm				21.779348	21.811865	0.09605669	Automatic Ct		Automatic			Automatic	1.0213561													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+196	1	chr05Ra	SYBR	Unknown	21.874033	77.3	Auto Tm				21.88968	21.884974	0.00950734	Automatic Ct		Automatic			Automatic	0.74950415													
+204	1	chr05Ra	SYBR	Unknown	21.88968	77.5	Auto Tm				21.88968	21.884974	0.00950734	Automatic Ct		Automatic			Automatic	0.74950415													
+212	1	chr05Ra	SYBR	Unknown	21.891212	77.5	Auto Tm				21.88968	21.884974	0.00950734	Automatic Ct		Automatic			Automatic	0.74950415													
+219	2	chr05Ra	SYBR	Unknown	21.478012	77.3	Auto Tm				21.503716	21.516329	0.045941968	Automatic Ct		Automatic			Automatic	0.74950415													
+227	2	chr05Ra	SYBR	Unknown	21.503716	77.5	Auto Tm				21.503716	21.516329	0.045941968	Automatic Ct		Automatic			Automatic	0.74950415													
+235	2	chr05Ra	SYBR	Unknown	21.56726	77.5	Auto Tm				21.503716	21.516329	0.045941968	Automatic Ct		Automatic			Automatic	0.74950415													
+220	3	chr05Ra	SYBR	Unknown	20.926342	77.3	Auto Tm				20.986568	20.991854	0.06830589	Automatic Ct		Automatic			Automatic	0.74950415													
+228	3	chr05Ra	SYBR	Unknown	20.986568	77.8	Auto Tm				20.986568	20.991854	0.06830589	Automatic Ct		Automatic			Automatic	0.74950415													
+236	3	chr05Ra	SYBR	Unknown	21.062647	77.5	Auto Tm				20.986568	20.991854	0.06830589	Automatic Ct		Automatic			Automatic	0.74950415													
+195	wt	chr05Ra	SYBR	Unknown	21.56615	77.1	Auto Tm				21.59169	21.60641	0.049292423	Automatic Ct		Automatic			Automatic	0.74950415													
+203	wt	chr05Ra	SYBR	Unknown	21.59169	77.5	Auto Tm				21.59169	21.60641	0.049292423	Automatic Ct		Automatic			Automatic	0.74950415													
+211	wt	chr05Ra	SYBR	Unknown	21.661383	77.5	Auto Tm				21.59169	21.60641	0.049292423	Automatic Ct		Automatic			Automatic	0.74950415													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+242	1	chr06La	SYBR	Unknown	22.382385	77.3	Auto Tm				22.347174	22.337381	0.050614506	Automatic Ct		Automatic			Automatic	1.1328263													
+250	1	chr06La	SYBR	Unknown	22.347174	77.6	Auto Tm				22.347174	22.337381	0.050614506	Automatic Ct		Automatic			Automatic	1.1328263													
+258	1	chr06La	SYBR	Unknown	22.282587	77.8	Auto Tm				22.347174	22.337381	0.050614506	Automatic Ct		Automatic			Automatic	1.1328263													
+265	2	chr06La	SYBR	Unknown	21.97158	77.1	Auto Tm				21.929842	21.940308	0.027572313	Automatic Ct		Automatic			Automatic	1.1328263													
+273	2	chr06La	SYBR	Unknown	21.9195	77.8	Auto Tm				21.929842	21.940308	0.027572313	Automatic Ct		Automatic			Automatic	1.1328263													
+281	2	chr06La	SYBR	Unknown	21.929842	77.8	Auto Tm				21.929842	21.940308	0.027572313	Automatic Ct		Automatic			Automatic	1.1328263													
+266	3	chr06La	SYBR	Unknown	21.511356	77.1	Auto Tm				21.511356	21.49701	0.03163626	Automatic Ct		Automatic			Automatic	1.1328263													
+274	3	chr06La	SYBR	Unknown	21.518932	77.8	Auto Tm				21.511356	21.49701	0.03163626	Automatic Ct		Automatic			Automatic	1.1328263													
+282	3	chr06La	SYBR	Unknown	21.460743	77.8	Auto Tm				21.511356	21.49701	0.03163626	Automatic Ct		Automatic			Automatic	1.1328263													
+241	wt	chr06La	SYBR	Unknown	22.056454	77.1	Auto Tm				22.05064	22.037384	0.028148709	Automatic Ct		Automatic			Automatic	1.1328263													
+249	wt	chr06La	SYBR	Unknown	22.05064	77.6	Auto Tm				22.05064	22.037384	0.028148709	Automatic Ct		Automatic			Automatic	1.1328263													
+257	wt	chr06La	SYBR	Unknown	22.005053	77.8	Auto Tm				22.05064	22.037384	0.028148709	Automatic Ct		Automatic			Automatic	1.1328263													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+244	1	chr06Ra	SYBR	Unknown	21.107845	78.2	Auto Tm				21.107845	21.121092	0.04194476	Automatic Ct		Automatic			Automatic	0.47956654													
+252	1	chr06Ra	SYBR	Unknown	21.087372	78.6	Auto Tm				21.107845	21.121092	0.04194476	Automatic Ct		Automatic			Automatic	0.47956654													
+260	1	chr06Ra	SYBR	Unknown	21.168062	78.3	Auto Tm				21.107845	21.121092	0.04194476	Automatic Ct		Automatic			Automatic	0.47956654													
+267	2	chr06Ra	SYBR	Unknown	20.729767	78.2	Auto Tm				20.760899	20.766096	0.03918841	Automatic Ct		Automatic			Automatic	0.47956654													
+275	2	chr06Ra	SYBR	Unknown	20.760899	78.6	Auto Tm				20.760899	20.766096	0.03918841	Automatic Ct		Automatic			Automatic	0.47956654													
+283	2	chr06Ra	SYBR	Unknown	20.807625	78.3	Auto Tm				20.760899	20.766096	0.03918841	Automatic Ct		Automatic			Automatic	0.47956654													
+268	3	chr06Ra	SYBR	Unknown	20.189814	78.2	Auto Tm				20.189814	20.20925	0.041941594	Automatic Ct		Automatic			Automatic	0.47956654													
+276	3	chr06Ra	SYBR	Unknown	20.180552	78.6	Auto Tm				20.189814	20.20925	0.041941594	Automatic Ct		Automatic			Automatic	0.47956654													
+284	3	chr06Ra	SYBR	Unknown	20.257383	78.3	Auto Tm				20.189814	20.20925	0.041941594	Automatic Ct		Automatic			Automatic	0.47956654													
+243	wt	chr06Ra	SYBR	Unknown	20.858624	78.2	Auto Tm				20.86059	20.86411	0.007863225	Automatic Ct		Automatic			Automatic	0.47956654													
+251	wt	chr06Ra	SYBR	Unknown	20.87312	78.3	Auto Tm				20.86059	20.86411	0.007863225	Automatic Ct		Automatic			Automatic	0.47956654													
+259	wt	chr06Ra	SYBR	Unknown	20.86059	78.3	Auto Tm				20.86059	20.86411	0.007863225	Automatic Ct		Automatic			Automatic	0.47956654													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+290	1	chr07La	SYBR	Unknown	22.432829	78.4	Auto Tm				22.432829	22.432108	0.0439259	Automatic Ct		Automatic			Automatic	0.7160079													
+298	1	chr07La	SYBR	Unknown	22.47567	79.2	Auto Tm				22.432829	22.432108	0.0439259	Automatic Ct		Automatic			Automatic	0.7160079													
+306	1	chr07La	SYBR	Unknown	22.387827	79.1	Auto Tm				22.432829	22.432108	0.0439259	Automatic Ct		Automatic			Automatic	0.7160079													
+313	2	chr07La	SYBR	Unknown	21.904541	78.4	Auto Tm				21.904541	21.903337	0.015721506	Automatic Ct		Automatic			Automatic	0.7160079													
+321	2	chr07La	SYBR	Unknown	21.918425	79.2	Auto Tm				21.904541	21.903337	0.015721506	Automatic Ct		Automatic			Automatic	0.7160079													
+329	2	chr07La	SYBR	Unknown	21.88705	79.1	Auto Tm				21.904541	21.903337	0.015721506	Automatic Ct		Automatic			Automatic	0.7160079													
+314	3	chr07La	SYBR	Unknown	21.593002	78.4	Auto Tm				21.58636	21.563972	0.044654302	Automatic Ct		Automatic			Automatic	0.7160079													
+322	3	chr07La	SYBR	Unknown	21.58636	79.2	Auto Tm				21.58636	21.563972	0.044654302	Automatic Ct		Automatic			Automatic	0.7160079													
+330	3	chr07La	SYBR	Unknown	21.512552	79.1	Auto Tm				21.58636	21.563972	0.044654302	Automatic Ct		Automatic			Automatic	0.7160079													
+289	wt	chr07La	SYBR	Unknown	22.101313	78.4	Auto Tm				22.101313	22.120659	0.06788434	Automatic Ct		Automatic			Automatic	0.7160079													
+297	wt	chr07La	SYBR	Unknown	22.196115	79.2	Auto Tm				22.101313	22.120659	0.06788434	Automatic Ct		Automatic			Automatic	0.7160079													
+305	wt	chr07La	SYBR	Unknown	22.064547	79.1	Auto Tm				22.101313	22.120659	0.06788434	Automatic Ct		Automatic			Automatic	0.7160079													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+292	1	chr07Ra	SYBR	Unknown	21.918903	79.2	Auto Tm				21.918903	21.913805	0.028879093	Automatic Ct		Automatic			Automatic	0.67126954													
+300	1	chr07Ra	SYBR	Unknown	21.882717	79.4	Auto Tm				21.918903	21.913805	0.028879093	Automatic Ct		Automatic			Automatic	0.67126954													
+308	1	chr07Ra	SYBR	Unknown	21.939796	79.1	Auto Tm				21.918903	21.913805	0.028879093	Automatic Ct		Automatic			Automatic	0.67126954													
+315	2	chr07Ra	SYBR	Unknown	21.350328	79.0	Auto Tm				21.350328	21.326546	0.05617548	Automatic Ct		Automatic			Automatic	0.67126954													
+323	2	chr07Ra	SYBR	Unknown	21.26239	79.4	Auto Tm				21.350328	21.326546	0.05617548	Automatic Ct		Automatic			Automatic	0.67126954													
+331	2	chr07Ra	SYBR	Unknown	21.366917	79.1	Auto Tm				21.350328	21.326546	0.05617548	Automatic Ct		Automatic			Automatic	0.67126954													
+316	3	chr07Ra	SYBR	Unknown	20.97604	79.0	Auto Tm				20.97604	20.954603	0.037342723	Automatic Ct		Automatic			Automatic	0.67126954													
+324	3	chr07Ra	SYBR	Unknown	20.911484	79.4	Auto Tm				20.97604	20.954603	0.037342723	Automatic Ct		Automatic			Automatic	0.67126954													
+332	3	chr07Ra	SYBR	Unknown	20.976286	79.1	Auto Tm				20.97604	20.954603	0.037342723	Automatic Ct		Automatic			Automatic	0.67126954													
+291	wt	chr07Ra	SYBR	Unknown	21.557617	79.0	Auto Tm				21.557617	21.55691	0.06733505	Automatic Ct		Automatic			Automatic	0.67126954													
+299	wt	chr07Ra	SYBR	Unknown	21.489225	79.4	Auto Tm				21.557617	21.55691	0.06733505	Automatic Ct		Automatic			Automatic	0.67126954													
+307	wt	chr07Ra	SYBR	Unknown	21.62389	79.1	Auto Tm				21.557617	21.55691	0.06733505	Automatic Ct		Automatic			Automatic	0.67126954													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+338	1	chr08La	SYBR	Unknown	21.750546	77.6	Auto Tm				21.77053	21.772146	0.022453105	Automatic Ct		Automatic			Automatic	0.6862992													
+346	1	chr08La	SYBR	Unknown	21.77053	78.3	Auto Tm				21.77053	21.772146	0.022453105	Automatic Ct		Automatic			Automatic	0.6862992													
+354	1	chr08La	SYBR	Unknown	21.795364	78.0	Auto Tm				21.77053	21.772146	0.022453105	Automatic Ct		Automatic			Automatic	0.6862992													
+361	2	chr08La	SYBR	Unknown	21.348894	77.4	Auto Tm				21.279934	21.299973	0.0425975	Automatic Ct		Automatic			Automatic	0.6862992													
+369	2	chr08La	SYBR	Unknown	21.27109	78.1	Auto Tm				21.279934	21.299973	0.0425975	Automatic Ct		Automatic			Automatic	0.6862992													
+377	2	chr08La	SYBR	Unknown	21.279934	78.3	Auto Tm				21.279934	21.299973	0.0425975	Automatic Ct		Automatic			Automatic	0.6862992													
+362	3	chr08La	SYBR	Unknown	20.883678	77.6	Auto Tm				20.883678	20.886454	0.0077264197	Automatic Ct		Automatic			Automatic	0.6862992													
+370	3	chr08La	SYBR	Unknown	20.895184	78.1	Auto Tm				20.883678	20.886454	0.0077264197	Automatic Ct		Automatic			Automatic	0.6862992													
+378	3	chr08La	SYBR	Unknown	20.880497	78.0	Auto Tm				20.883678	20.886454	0.0077264197	Automatic Ct		Automatic			Automatic	0.6862992													
+337	wt	chr08La	SYBR	Unknown	21.442583	77.4	Auto Tm				21.459778	21.459452	0.01670979	Automatic Ct		Automatic			Automatic	0.6862992													
+345	wt	chr08La	SYBR	Unknown	21.459778	78.1	Auto Tm				21.459778	21.459452	0.01670979	Automatic Ct		Automatic			Automatic	0.6862992													
+353	wt	chr08La	SYBR	Unknown	21.475998	78.3	Auto Tm				21.459778	21.459452	0.01670979	Automatic Ct		Automatic			Automatic	0.6862992													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+340	1	chr08Ra	SYBR	Unknown	22.196836	78.2	Auto Tm				22.186747	22.179857	0.021278583	Automatic Ct		Automatic			Automatic	0.831939													
+348	1	chr08Ra	SYBR	Unknown	22.155987	78.6	Auto Tm				22.186747	22.179857	0.021278583	Automatic Ct		Automatic			Automatic	0.831939													
+356	1	chr08Ra	SYBR	Unknown	22.186747	78.3	Auto Tm				22.186747	22.179857	0.021278583	Automatic Ct		Automatic			Automatic	0.831939													
+363	2	chr08Ra	SYBR	Unknown	21.74219	77.9	Auto Tm				21.74219	21.755571	0.06416308	Automatic Ct		Automatic			Automatic	0.831939													
+371	2	chr08Ra	SYBR	Unknown	21.699158	78.6	Auto Tm				21.74219	21.755571	0.06416308	Automatic Ct		Automatic			Automatic	0.831939													
+379	2	chr08Ra	SYBR	Unknown	21.825373	78.3	Auto Tm				21.74219	21.755571	0.06416308	Automatic Ct		Automatic			Automatic	0.831939													
+364	3	chr08Ra	SYBR	Unknown	21.291374	78.2	Auto Tm				21.291374	21.287548	0.033311117	Automatic Ct		Automatic			Automatic	0.831939													
+372	3	chr08Ra	SYBR	Unknown	21.25249	78.6	Auto Tm				21.291374	21.287548	0.033311117	Automatic Ct		Automatic			Automatic	0.831939													
+380	3	chr08Ra	SYBR	Unknown	21.31878	78.0	Auto Tm				21.291374	21.287548	0.033311117	Automatic Ct		Automatic			Automatic	0.831939													
+339	wt	chr08Ra	SYBR	Unknown	21.956694	77.9	Auto Tm				21.883514	21.906929	0.043121837	Automatic Ct		Automatic			Automatic	0.831939													
+347	wt	chr08Ra	SYBR	Unknown	21.88058	78.3	Auto Tm				21.883514	21.906929	0.043121837	Automatic Ct		Automatic			Automatic	0.831939													
+355	wt	chr08Ra	SYBR	Unknown	21.883514	78.3	Auto Tm				21.883514	21.906929	0.043121837	Automatic Ct		Automatic			Automatic	0.831939													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+6	1	chr09La	SYBR	Unknown	22.753473	78.4	Auto Tm				22.824509	22.811256	0.05243019	Automatic Ct		Automatic			Automatic	1.5344759					true								
+14	1	chr09La	SYBR	Unknown	22.824509	78.6	Auto Tm				22.824509	22.811256	0.05243019	Automatic Ct		Automatic			Automatic	1.5344759					true								
+22	1	chr09La	SYBR	Unknown	22.855791	78.3	Auto Tm				22.824509	22.811256	0.05243019	Automatic Ct		Automatic			Automatic	1.5344759					true								
+29	2	chr09La	SYBR	Unknown	22.358185	78.4	Auto Tm				22.462467	22.433447	0.06574317	Automatic Ct		Automatic			Automatic	1.5344759					true								
+37	2	chr09La	SYBR	Unknown	22.462467	78.6	Auto Tm				22.462467	22.433447	0.06574317	Automatic Ct		Automatic			Automatic	1.5344759					true								
+45	2	chr09La	SYBR	Unknown	22.479683	78.3	Auto Tm				22.462467	22.433447	0.06574317	Automatic Ct		Automatic			Automatic	1.5344759					true								
+30	3	chr09La	SYBR	Unknown	21.939203	78.4	Auto Tm				21.939203	21.935263	0.023262803	Automatic Ct		Automatic			Automatic	1.5344759					true								
+38	3	chr09La	SYBR	Unknown	21.910282	78.6	Auto Tm				21.939203	21.935263	0.023262803	Automatic Ct		Automatic			Automatic	1.5344759					true								
+46	3	chr09La	SYBR	Unknown	21.956305	78.3	Auto Tm				21.939203	21.935263	0.023262803	Automatic Ct		Automatic			Automatic	1.5344759					true								
+5	wt	chr09La	SYBR	Unknown	22.560572	78.4	Auto Tm				22.612722	22.609549	0.047470547	Automatic Ct		Automatic			Automatic	1.5344759					true								
+13	wt	chr09La	SYBR	Unknown	22.655354	78.6	Auto Tm				22.612722	22.609549	0.047470547	Automatic Ct		Automatic			Automatic	1.5344759					true								
+21	wt	chr09La	SYBR	Unknown	22.612722	78.3	Auto Tm				22.612722	22.609549	0.047470547	Automatic Ct		Automatic			Automatic	1.5344759					true			true					
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+8	1	chr09Ra	SYBR	Unknown	21.896097	77.3	Auto Tm				21.896097	21.889685	0.023158446	Automatic Ct		Automatic			Automatic	0.8690234													
+16	1	chr09Ra	SYBR	Unknown	21.908962	77.5	Auto Tm				21.896097	21.889685	0.023158446	Automatic Ct		Automatic			Automatic	0.8690234													
+24	1	chr09Ra	SYBR	Unknown	21.863997	77.4	Auto Tm				21.896097	21.889685	0.023158446	Automatic Ct		Automatic			Automatic	0.8690234													
+31	2	chr09Ra	SYBR	Unknown	21.57846	77.3	Auto Tm				21.577253	21.563894	0.02419392	Automatic Ct		Automatic			Automatic	0.8690234													
+39	2	chr09Ra	SYBR	Unknown	21.535965	77.8	Auto Tm				21.577253	21.563894	0.02419392	Automatic Ct		Automatic			Automatic	0.8690234													
+47	2	chr09Ra	SYBR	Unknown	21.577253	77.4	Auto Tm				21.577253	21.563894	0.02419392	Automatic Ct		Automatic			Automatic	0.8690234													
+32	3	chr09Ra	SYBR	Unknown	21.080532	77.6	Auto Tm				21.080532	21.0855	0.0121094575	Automatic Ct		Automatic			Automatic	0.8690234													
+40	3	chr09Ra	SYBR	Unknown	21.076666	77.5	Auto Tm				21.080532	21.0855	0.0121094575	Automatic Ct		Automatic			Automatic	0.8690234													
+48	3	chr09Ra	SYBR	Unknown	21.099304	77.2	Auto Tm				21.080532	21.0855	0.0121094575	Automatic Ct		Automatic			Automatic	0.8690234													
+7	wt	chr09Ra	SYBR	Unknown	21.826406	77.3	Auto Tm				21.814228	21.817535	0.007765659	Automatic Ct		Automatic			Automatic	0.8690234													
+15	wt	chr09Ra	SYBR	Unknown	21.814228	77.5	Auto Tm				21.814228	21.817535	0.007765659	Automatic Ct		Automatic			Automatic	0.8690234													
+23	wt	chr09Ra	SYBR	Unknown	21.81197	77.4	Auto Tm				21.814228	21.817535	0.007765659	Automatic Ct		Automatic			Automatic	0.8690234													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+54	1	chr10La	SYBR	Unknown	22.17554	77.8	Auto Tm				22.280888	22.266321	0.08444375	Automatic Ct		Automatic			Automatic	1.3180833					true								
+62	1	chr10La	SYBR	Unknown	22.342533	77.8	Auto Tm				22.280888	22.266321	0.08444375	Automatic Ct		Automatic			Automatic	1.3180833													
+70	1	chr10La	SYBR	Unknown	22.280888	77.4	Auto Tm				22.280888	22.266321	0.08444375	Automatic Ct		Automatic			Automatic	1.3180833													
+77	2	chr10La	SYBR	Unknown	21.795424	77.9	Auto Tm				21.9004	21.878334	0.07437522	Automatic Ct		Automatic			Automatic	1.3180833													
+85	2	chr10La	SYBR	Unknown	21.9004	77.8	Auto Tm				21.9004	21.878334	0.07437522	Automatic Ct		Automatic			Automatic	1.3180833													
+93	2	chr10La	SYBR	Unknown	21.93918	77.7	Auto Tm				21.9004	21.878334	0.07437522	Automatic Ct		Automatic			Automatic	1.3180833													
+78	3	chr10La	SYBR	Unknown	21.322296	77.8	Auto Tm				21.36336	21.37677	0.062272802	Automatic Ct		Automatic			Automatic	1.3180833													
+86	3	chr10La	SYBR	Unknown	21.444656	77.8	Auto Tm				21.36336	21.37677	0.062272802	Automatic Ct		Automatic			Automatic	1.3180833													
+94	3	chr10La	SYBR	Unknown	21.36336	77.4	Auto Tm				21.36336	21.37677	0.062272802	Automatic Ct		Automatic			Automatic	1.3180833													
+53	wt	chr10La	SYBR	Unknown	21.980667	77.6	Auto Tm				22.030323	22.046518	0.07526927	Automatic Ct		Automatic			Automatic	1.3180833													
+61	wt	chr10La	SYBR	Unknown	22.128569	77.8	Auto Tm				22.030323	22.046518	0.07526927	Automatic Ct		Automatic			Automatic	1.3180833													
+69	wt	chr10La	SYBR	Unknown	22.030323	77.5	Auto Tm				22.030323	22.046518	0.07526927	Automatic Ct		Automatic			Automatic	1.3180833													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+56	1	chr10Ra	SYBR	Unknown	22.510614	80.0	Auto Tm				22.510614	22.477135	0.06843647	Automatic Ct		Automatic			Automatic	1.25873													
+64	1	chr10Ra	SYBR	Unknown	22.522385	79.9	Auto Tm				22.510614	22.477135	0.06843647	Automatic Ct		Automatic			Automatic	1.25873													
+72	1	chr10Ra	SYBR	Unknown	22.398403	79.9	Auto Tm				22.510614	22.477135	0.06843647	Automatic Ct		Automatic			Automatic	1.25873													
+79	2	chr10Ra	SYBR	Unknown	22.02583	80.0	Auto Tm				22.020418	21.987432	0.061882656	Automatic Ct		Automatic			Automatic	1.25873													
+87	2	chr10Ra	SYBR	Unknown	22.020418	80.2	Auto Tm				22.020418	21.987432	0.061882656	Automatic Ct		Automatic			Automatic	1.25873													
+95	2	chr10Ra	SYBR	Unknown	21.916042	80.1	Auto Tm				22.020418	21.987432	0.061882656	Automatic Ct		Automatic			Automatic	1.25873													
+80	3	chr10Ra	SYBR	Unknown	21.588768	80.0	Auto Tm				21.580956	21.582106	0.006169959	Automatic Ct		Automatic			Automatic	1.25873													
+88	3	chr10Ra	SYBR	Unknown	21.580956	80.2	Auto Tm				21.580956	21.582106	0.006169959	Automatic Ct		Automatic			Automatic	1.25873													
+96	3	chr10Ra	SYBR	Unknown	21.57659	79.9	Auto Tm				21.580956	21.582106	0.006169959	Automatic Ct		Automatic			Automatic	1.25873													
+55	wt	chr10Ra	SYBR	Unknown	22.246052	79.8	Auto Tm				22.211954	22.202486	0.048989814	Automatic Ct		Automatic			Automatic	1.25873													
+63	wt	chr10Ra	SYBR	Unknown	22.211954	79.9	Auto Tm				22.211954	22.202486	0.048989814	Automatic Ct		Automatic			Automatic	1.25873													
+71	wt	chr10Ra	SYBR	Unknown	22.149454	80.1	Auto Tm				22.211954	22.202486	0.048989814	Automatic Ct		Automatic			Automatic	1.25873													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+102	1	chr11La	SYBR	Unknown	22.102694	80.8	Auto Tm				22.114561	22.121712	0.023427866	Automatic Ct		Automatic			Automatic	0.88777775													
+110	1	chr11La	SYBR	Unknown	22.114561	81.0	Auto Tm				22.114561	22.121712	0.023427866	Automatic Ct		Automatic			Automatic	0.88777775													
+118	1	chr11La	SYBR	Unknown	22.147882	80.7	Auto Tm				22.114561	22.121712	0.023427866	Automatic Ct		Automatic			Automatic	0.88777775													
+125	2	chr11La	SYBR	Unknown	21.725246	80.8	Auto Tm				21.779346	21.76355	0.033342216	Automatic Ct		Automatic			Automatic	0.88777775													
+133	2	chr11La	SYBR	Unknown	21.779346	81.0	Auto Tm				21.779346	21.76355	0.033342216	Automatic Ct		Automatic			Automatic	0.88777775													
+141	2	chr11La	SYBR	Unknown	21.78606	80.7	Auto Tm				21.779346	21.76355	0.033342216	Automatic Ct		Automatic			Automatic	0.88777775													
+126	3	chr11La	SYBR	Unknown	21.198307	80.8	Auto Tm				21.237612	21.238806	0.041107774	Automatic Ct		Automatic			Automatic	0.88777775													
+134	3	chr11La	SYBR	Unknown	21.237612	81.0	Auto Tm				21.237612	21.238806	0.041107774	Automatic Ct		Automatic			Automatic	0.88777775													
+142	3	chr11La	SYBR	Unknown	21.280497	80.7	Auto Tm				21.237612	21.238806	0.041107774	Automatic Ct		Automatic			Automatic	0.88777775													
+101	wt	chr11La	SYBR	Unknown	21.87565	80.8	Auto Tm				21.877497	21.887962	0.019746434	Automatic Ct		Automatic			Automatic	0.88777775													
+109	wt	chr11La	SYBR	Unknown	21.877497	81.0	Auto Tm				21.877497	21.887962	0.019746434	Automatic Ct		Automatic			Automatic	0.88777775													
+117	wt	chr11La	SYBR	Unknown	21.910738	80.7	Auto Tm				21.877497	21.887962	0.019746434	Automatic Ct		Automatic			Automatic	0.88777775													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+104	1	chr11Ra	SYBR	Unknown	21.871809	77.3	Auto Tm				21.908716	21.898554	0.02338378	Automatic Ct		Automatic			Automatic	0.91703546													
+112	1	chr11Ra	SYBR	Unknown	21.908716	77.5	Auto Tm				21.908716	21.898554	0.02338378	Automatic Ct		Automatic			Automatic	0.91703546													
+120	1	chr11Ra	SYBR	Unknown	21.915138	76.9	Auto Tm				21.908716	21.898554	0.02338378	Automatic Ct		Automatic			Automatic	0.91703546													
+127	2	chr11Ra	SYBR	Unknown	21.396296	77.3	Auto Tm				21.395885	21.386103	0.017300647	Automatic Ct		Automatic			Automatic	0.91703546													
+135	2	chr11Ra	SYBR	Unknown	21.395885	77.5	Auto Tm				21.395885	21.386103	0.017300647	Automatic Ct		Automatic			Automatic	0.91703546													
+143	2	chr11Ra	SYBR	Unknown	21.366127	77.2	Auto Tm				21.395885	21.386103	0.017300647	Automatic Ct		Automatic			Automatic	0.91703546													
+128	3	chr11Ra	SYBR	Unknown	20.95508	77.3	Auto Tm				20.95508	20.950043	0.03783177	Automatic Ct		Automatic			Automatic	0.91703546													
+136	3	chr11Ra	SYBR	Unknown	20.985106	77.5	Auto Tm				20.95508	20.950043	0.03783177	Automatic Ct		Automatic			Automatic	0.91703546													
+144	3	chr11Ra	SYBR	Unknown	20.909946	77.2	Auto Tm				20.95508	20.950043	0.03783177	Automatic Ct		Automatic			Automatic	0.91703546													
+103	wt	chr11Ra	SYBR	Unknown	21.625889	77.3	Auto Tm				21.615173	21.612663	0.014642842	Automatic Ct		Automatic			Automatic	0.91703546													
+111	wt	chr11Ra	SYBR	Unknown	21.596928	77.5	Auto Tm				21.615173	21.612663	0.014642842	Automatic Ct		Automatic			Automatic	0.91703546													
+119	wt	chr11Ra	SYBR	Unknown	21.615173	77.2	Auto Tm				21.615173	21.612663	0.014642842	Automatic Ct		Automatic			Automatic	0.91703546													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+150	1	chr12La	SYBR	Unknown	21.126795	77.6	Auto Tm				21.239372	21.2021	0.06521797	Automatic Ct		Automatic			Automatic	1.117626													
+158	1	chr12La	SYBR	Unknown	21.239372	77.8	Auto Tm				21.239372	21.2021	0.06521797	Automatic Ct		Automatic			Automatic	1.117626													
+166	1	chr12La	SYBR	Unknown	21.240135	77.4	Auto Tm				21.239372	21.2021	0.06521797	Automatic Ct		Automatic			Automatic	1.117626													
+173	2	chr12La	SYBR	Unknown	21.685568	77.6	Auto Tm				21.820145	21.783842	0.0860696	Automatic Ct		Automatic			Automatic	1.117626													
+181	2	chr12La	SYBR	Unknown	21.845812	77.8	Auto Tm				21.820145	21.783842	0.0860696	Automatic Ct		Automatic			Automatic	1.117626													
+189	2	chr12La	SYBR	Unknown	21.820145	77.5	Auto Tm				21.820145	21.783842	0.0860696	Automatic Ct		Automatic			Automatic	1.117626													
+174	3	chr12La	SYBR	Unknown	21.34181	77.6	Auto Tm				21.405188	21.395098	0.0490267	Automatic Ct		Automatic			Automatic	1.117626					true								
+182	3	chr12La	SYBR	Unknown	21.438293	77.5	Auto Tm				21.405188	21.395098	0.0490267	Automatic Ct		Automatic			Automatic	1.117626													
+190	3	chr12La	SYBR	Unknown	21.405188	77.2	Auto Tm				21.405188	21.395098	0.0490267	Automatic Ct		Automatic			Automatic	1.117626													
+149	wt	chr12La	SYBR	Unknown	21.87013	77.1	Auto Tm				21.902784	21.894316	0.021254772	Automatic Ct		Automatic			Automatic	1.117626													
+157	wt	chr12La	SYBR	Unknown	21.910028	77.8	Auto Tm				21.902784	21.894316	0.021254772	Automatic Ct		Automatic			Automatic	1.117626													
+165	wt	chr12La	SYBR	Unknown	21.902784	77.5	Auto Tm				21.902784	21.894316	0.021254772	Automatic Ct		Automatic			Automatic	1.117626													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+152	1	chr12Ra	SYBR	Unknown	21.88714	77.6	Auto Tm				21.87078	21.862684	0.029353099	Automatic Ct		Automatic			Automatic	1.2577646													
+160	1	chr12Ra	SYBR	Unknown	21.87078	77.5	Auto Tm				21.87078	21.862684	0.029353099	Automatic Ct		Automatic			Automatic	1.2577646													
+168	1	chr12Ra	SYBR	Unknown	21.830133	77.2	Auto Tm				21.87078	21.862684	0.029353099	Automatic Ct		Automatic			Automatic	1.2577646													
+175	2	chr12Ra	SYBR	Unknown	22.353773	77.6	Auto Tm				22.330751	22.322989	0.03531298	Automatic Ct		Automatic			Automatic	1.2577646													
+183	2	chr12Ra	SYBR	Unknown	22.330751	77.5	Auto Tm				22.330751	22.322989	0.03531298	Automatic Ct		Automatic			Automatic	1.2577646					true								
+191	2	chr12Ra	SYBR	Unknown	22.28444	77.4	Auto Tm				22.330751	22.322989	0.03531298	Automatic Ct		Automatic			Automatic	1.2577646													
+176	3	chr12Ra	SYBR	Unknown	21.911963	77.6	Auto Tm				21.964113	21.947372	0.03068163	Automatic Ct		Automatic			Automatic	1.2577646													
+184	3	chr12Ra	SYBR	Unknown	21.966043	77.5	Auto Tm				21.964113	21.947372	0.03068163	Automatic Ct		Automatic			Automatic	1.2577646					true								
+192	3	chr12Ra	SYBR	Unknown	21.964113	77.2	Auto Tm				21.964113	21.947372	0.03068163	Automatic Ct		Automatic			Automatic	1.2577646													
+151	wt	chr12Ra	SYBR	Unknown	22.560884	77.3	Auto Tm				22.505554	22.522718	0.033108413	Automatic Ct		Automatic			Automatic	1.2577646													
+159	wt	chr12Ra	SYBR	Unknown	22.505554	77.5	Auto Tm				22.505554	22.522718	0.033108413	Automatic Ct		Automatic			Automatic	1.2577646													
+167	wt	chr12Ra	SYBR	Unknown	22.501717	77.4	Auto Tm				22.505554	22.522718	0.033108413	Automatic Ct		Automatic			Automatic	1.2577646													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+198	1	chr13La	SYBR	Unknown	22.183702	78.1	Auto Tm				22.27534	22.267387	0.08000778	Automatic Ct		Automatic			Automatic	1.149607													
+206	1	chr13La	SYBR	Unknown	22.27534	78.3	Auto Tm				22.27534	22.267387	0.08000778	Automatic Ct		Automatic			Automatic	1.149607													
+214	1	chr13La	SYBR	Unknown	22.343124	78.0	Auto Tm				22.27534	22.267387	0.08000778	Automatic Ct		Automatic			Automatic	1.149607													
+221	2	chr13La	SYBR	Unknown	21.86912	78.1	Auto Tm				21.907757	21.905241	0.03493057	Automatic Ct		Automatic			Automatic	1.149607													
+229	2	chr13La	SYBR	Unknown	21.907757	78.3	Auto Tm				21.907757	21.905241	0.03493057	Automatic Ct		Automatic			Automatic	1.149607													
+237	2	chr13La	SYBR	Unknown	21.938845	78.0	Auto Tm				21.907757	21.905241	0.03493057	Automatic Ct		Automatic			Automatic	1.149607													
+222	3	chr13La	SYBR	Unknown	21.390314	78.4	Auto Tm				21.45909	21.441301	0.044824272	Automatic Ct		Automatic			Automatic	1.149607													
+230	3	chr13La	SYBR	Unknown	21.474503	78.3	Auto Tm				21.45909	21.441301	0.044824272	Automatic Ct		Automatic			Automatic	1.149607													
+238	3	chr13La	SYBR	Unknown	21.45909	78.0	Auto Tm				21.45909	21.441301	0.044824272	Automatic Ct		Automatic			Automatic	1.149607													
+197	wt	chr13La	SYBR	Unknown	21.967524	78.1	Auto Tm				22.01018	22.008959	0.040840454	Automatic Ct		Automatic			Automatic	1.149607													
+205	wt	chr13La	SYBR	Unknown	22.049177	78.3	Auto Tm				22.01018	22.008959	0.040840454	Automatic Ct		Automatic			Automatic	1.149607													
+213	wt	chr13La	SYBR	Unknown	22.01018	78.0	Auto Tm				22.01018	22.008959	0.040840454	Automatic Ct		Automatic			Automatic	1.149607													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+200	1	chr13Ra	SYBR	Unknown	21.770567	74.9	Auto Tm				21.770567	21.786371	0.042755526	Automatic Ct		Automatic			Automatic	0.734545													
+208	1	chr13Ra	SYBR	Unknown	21.753769	75.1	Auto Tm				21.770567	21.786371	0.042755526	Automatic Ct		Automatic			Automatic	0.734545													
+216	1	chr13Ra	SYBR	Unknown	21.83478	74.7	Auto Tm				21.770567	21.786371	0.042755526	Automatic Ct		Automatic			Automatic	0.734545													
+223	2	chr13Ra	SYBR	Unknown	21.362059	74.9	Auto Tm				21.362059	21.351156	0.02780426	Automatic Ct		Automatic			Automatic	0.734545													
+231	2	chr13Ra	SYBR	Unknown	21.319551	75.1	Auto Tm				21.362059	21.351156	0.02780426	Automatic Ct		Automatic			Automatic	0.734545													
+239	2	chr13Ra	SYBR	Unknown	21.371855	74.7	Auto Tm				21.362059	21.351156	0.02780426	Automatic Ct		Automatic			Automatic	0.734545													
+224	3	chr13Ra	SYBR	Unknown	20.93643	74.9	Auto Tm				20.926317	20.912516	0.033051997	Automatic Ct		Automatic			Automatic	0.734545													
+232	3	chr13Ra	SYBR	Unknown	20.926317	75.1	Auto Tm				20.926317	20.912516	0.033051997	Automatic Ct		Automatic			Automatic	0.734545													
+240	3	chr13Ra	SYBR	Unknown	20.8748	74.7	Auto Tm				20.926317	20.912516	0.033051997	Automatic Ct		Automatic			Automatic	0.734545													
+199	wt	chr13Ra	SYBR	Unknown	21.462702	74.9	Auto Tm				21.43401	21.443388	0.016728004	Automatic Ct		Automatic			Automatic	0.734545													
+207	wt	chr13Ra	SYBR	Unknown	21.43401	75.1	Auto Tm				21.43401	21.443388	0.016728004	Automatic Ct		Automatic			Automatic	0.734545													
+215	wt	chr13Ra	SYBR	Unknown	21.433455	74.7	Auto Tm				21.43401	21.443388	0.016728004	Automatic Ct		Automatic			Automatic	0.734545													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+246	1	chr14La	SYBR	Unknown	22.454775	75.5	Auto Tm				22.467188	22.463379	0.007468845	Automatic Ct		Automatic			Automatic	1.1461598													
+254	1	chr14La	SYBR	Unknown	22.467188	75.4	Auto Tm				22.467188	22.463379	0.007468845	Automatic Ct		Automatic			Automatic	1.1461598													
+262	1	chr14La	SYBR	Unknown	22.468178	75.0	Auto Tm				22.467188	22.463379	0.007468845	Automatic Ct		Automatic			Automatic	1.1461598													
+269	2	chr14La	SYBR	Unknown	21.962858	75.5	Auto Tm				21.961855	21.947294	0.026095748	Automatic Ct		Automatic			Automatic	1.1461598													
+277	2	chr14La	SYBR	Unknown	21.961855	75.4	Auto Tm				21.961855	21.947294	0.026095748	Automatic Ct		Automatic			Automatic	1.1461598													
+285	2	chr14La	SYBR	Unknown	21.917166	75.3	Auto Tm				21.961855	21.947294	0.026095748	Automatic Ct		Automatic			Automatic	1.1461598													
+270	3	chr14La	SYBR	Unknown	21.537968	75.5	Auto Tm				21.562262	21.560675	0.021956582	Automatic Ct		Automatic			Automatic	1.1461598													
+278	3	chr14La	SYBR	Unknown	21.581795	75.7	Auto Tm				21.562262	21.560675	0.021956582	Automatic Ct		Automatic			Automatic	1.1461598													
+286	3	chr14La	SYBR	Unknown	21.562262	75.0	Auto Tm				21.562262	21.560675	0.021956582	Automatic Ct		Automatic			Automatic	1.1461598													
+245	wt	chr14La	SYBR	Unknown	22.114311	75.2	Auto Tm				22.124718	22.123627	0.008822517	Automatic Ct		Automatic			Automatic	1.1461598													
+253	wt	chr14La	SYBR	Unknown	22.124718	75.4	Auto Tm				22.124718	22.123627	0.008822517	Automatic Ct		Automatic			Automatic	1.1461598													
+261	wt	chr14La	SYBR	Unknown	22.131855	75.3	Auto Tm				22.124718	22.123627	0.008822517	Automatic Ct		Automatic			Automatic	1.1461598													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+248	1	chr14Ra	SYBR	Unknown	22.8034	81.9	Auto Tm				22.808857	22.807785	0.003960991	Automatic Ct		Automatic			Automatic	1.1042882													
+256	1	chr14Ra	SYBR	Unknown	22.808857	81.8	Auto Tm				22.808857	22.807785	0.003960991	Automatic Ct		Automatic			Automatic	1.1042882													
+264	1	chr14Ra	SYBR	Unknown	22.811102	81.5	Auto Tm				22.808857	22.807785	0.003960991	Automatic Ct		Automatic			Automatic	1.1042882													
+271	2	chr14Ra	SYBR	Unknown	22.297174	81.9	Auto Tm				22.297174	22.293898	0.02173615	Automatic Ct		Automatic			Automatic	1.1042882													
+279	2	chr14Ra	SYBR	Unknown	22.27071	82.1	Auto Tm				22.297174	22.293898	0.02173615	Automatic Ct		Automatic			Automatic	1.1042882													
+287	2	chr14Ra	SYBR	Unknown	22.31381	81.8	Auto Tm				22.297174	22.293898	0.02173615	Automatic Ct		Automatic			Automatic	1.1042882													
+272	3	chr14Ra	SYBR	Unknown	21.950296	81.9	Auto Tm				21.950296	21.938812	0.029475732	Automatic Ct		Automatic			Automatic	1.1042882													
+280	3	chr14Ra	SYBR	Unknown	21.905323	81.8	Auto Tm				21.950296	21.938812	0.029475732	Automatic Ct		Automatic			Automatic	1.1042882													
+288	3	chr14Ra	SYBR	Unknown	21.960817	81.5	Auto Tm				21.950296	21.938812	0.029475732	Automatic Ct		Automatic			Automatic	1.1042882													
+247	wt	chr14Ra	SYBR	Unknown	22.580048	81.6	Auto Tm				22.580048	22.581068	0.009407634	Automatic Ct		Automatic			Automatic	1.1042882													
+255	wt	chr14Ra	SYBR	Unknown	22.572212	81.8	Auto Tm				22.580048	22.581068	0.009407634	Automatic Ct		Automatic			Automatic	1.1042882													
+263	wt	chr14Ra	SYBR	Unknown	22.590944	81.5	Auto Tm				22.580048	22.581068	0.009407634	Automatic Ct		Automatic			Automatic	1.1042882													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+294	1	chr15La	SYBR	Unknown	21.853083	79.8	Auto Tm				21.919239	21.9101	0.053043768	Automatic Ct		Automatic			Automatic	0.66762567													
+302	1	chr15La	SYBR	Unknown	21.957983	79.9	Auto Tm				21.919239	21.9101	0.053043768	Automatic Ct		Automatic			Automatic	0.66762567													
+310	1	chr15La	SYBR	Unknown	21.919239	79.3	Auto Tm				21.919239	21.9101	0.053043768	Automatic Ct		Automatic			Automatic	0.66762567													
+317	2	chr15La	SYBR	Unknown	21.287807	79.5	Auto Tm				21.461033	21.424353	0.12239668	Automatic Ct		Automatic			Automatic	0.66762567													
+325	2	chr15La	SYBR	Unknown	21.524212	79.7	Auto Tm				21.461033	21.424353	0.12239668	Automatic Ct		Automatic			Automatic	0.66762567													
+333	2	chr15La	SYBR	Unknown	21.461033	79.3	Auto Tm				21.461033	21.424353	0.12239668	Automatic Ct		Automatic			Automatic	0.66762567													
+318	3	chr15La	SYBR	Unknown	20.968355	79.8	Auto Tm				21.042366	21.277824	0.47337198	Automatic Ct		Automatic			Automatic	0.66762567													
+326	3	chr15La	SYBR	Unknown	21.822756	79.9	Auto Tm				21.042366	21.277824	0.47337198	Automatic Ct		Automatic			Automatic	0.66762567													
+334	3	chr15La	SYBR	Unknown	21.042366	79.3	Auto Tm				21.042366	21.277824	0.47337198	Automatic Ct		Automatic			Automatic	0.66762567													
+293	wt	chr15La	SYBR	Unknown	21.593334	79.8	Auto Tm				21.713688	21.69222	0.09009278	Automatic Ct		Automatic			Automatic	0.66762567													
+301	wt	chr15La	SYBR	Unknown	21.769642	79.7	Auto Tm				21.713688	21.69222	0.09009278	Automatic Ct		Automatic			Automatic	0.66762567													
+309	wt	chr15La	SYBR	Unknown	21.713688	79.6	Auto Tm				21.713688	21.69222	0.09009278	Automatic Ct		Automatic			Automatic	0.66762567													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+296	1	chr15Rb	SYBR	Unknown	22.801493	77.6	Auto Tm				22.782024	22.768003	0.042282924	Automatic Ct		Automatic			Automatic	1.3032167													
+304	1	chr15Rb	SYBR	Unknown	22.782024	77.8	Auto Tm				22.782024	22.768003	0.042282924	Automatic Ct		Automatic			Automatic	1.3032167													
+312	1	chr15Rb	SYBR	Unknown	22.72049	77.2	Auto Tm				22.782024	22.768003	0.042282924	Automatic Ct		Automatic			Automatic	1.3032167													
+319	2	chr15Rb	SYBR	Unknown	22.24492	77.3	Auto Tm				22.224041	22.230806	0.012226322	Automatic Ct		Automatic			Automatic	1.3032167													
+327	2	chr15Rb	SYBR	Unknown	22.224041	77.8	Auto Tm				22.224041	22.230806	0.012226322	Automatic Ct		Automatic			Automatic	1.3032167													
+335	2	chr15Rb	SYBR	Unknown	22.22346	77.4	Auto Tm				22.224041	22.230806	0.012226322	Automatic Ct		Automatic			Automatic	1.3032167													
+320	3	chr15Rb	SYBR	Unknown	21.950397	77.6	Auto Tm				21.950397	21.937449	0.036862746	Automatic Ct		Automatic			Automatic	1.3032167													
+328	3	chr15Rb	SYBR	Unknown	21.895857	77.8	Auto Tm				21.950397	21.937449	0.036862746	Automatic Ct		Automatic			Automatic	1.3032167													
+336	3	chr15Rb	SYBR	Unknown	21.966087	77.2	Auto Tm				21.950397	21.937449	0.036862746	Automatic Ct		Automatic			Automatic	1.3032167													
+295	wt	chr15Rb	SYBR	Unknown	22.576616	77.3	Auto Tm				22.576616	22.554998	0.07197555	Automatic Ct		Automatic			Automatic	1.3032167													
+303	wt	chr15Rb	SYBR	Unknown	22.613688	77.5	Auto Tm				22.576616	22.554998	0.07197555	Automatic Ct		Automatic			Automatic	1.3032167													
+311	wt	chr15Rb	SYBR	Unknown	22.474691	77.2	Auto Tm				22.576616	22.554998	0.07197555	Automatic Ct		Automatic			Automatic	1.3032167													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+342	1	chr16La	SYBR	Unknown	22.071724	78.9	Auto Tm				22.178572	22.147856	0.0663392	Automatic Ct		Automatic			Automatic	0.8885311													
+350	1	chr16La	SYBR	Unknown	22.193268	78.9	Auto Tm				22.178572	22.147856	0.0663392	Automatic Ct		Automatic			Automatic	0.8885311													
+358	1	chr16La	SYBR	Unknown	22.178572	78.5	Auto Tm				22.178572	22.147856	0.0663392	Automatic Ct		Automatic			Automatic	0.8885311													
+365	2	chr16La	SYBR	Unknown	21.64013	78.7	Auto Tm				21.751968	21.724518	0.074555896	Automatic Ct		Automatic			Automatic	0.8885311													
+373	2	chr16La	SYBR	Unknown	21.751968	78.9	Auto Tm				21.751968	21.724518	0.074555896	Automatic Ct		Automatic			Automatic	0.8885311													
+381	2	chr16La	SYBR	Unknown	21.781458	78.5	Auto Tm				21.751968	21.724518	0.074555896	Automatic Ct		Automatic			Automatic	0.8885311													
+366	3	chr16La	SYBR	Unknown	21.219198	78.7	Auto Tm				21.308937	21.29159	0.06546657	Automatic Ct		Automatic			Automatic	0.8885311													
+374	3	chr16La	SYBR	Unknown	21.308937	78.9	Auto Tm				21.308937	21.29159	0.06546657	Automatic Ct		Automatic			Automatic	0.8885311													
+382	3	chr16La	SYBR	Unknown	21.346638	78.5	Auto Tm				21.308937	21.29159	0.06546657	Automatic Ct		Automatic			Automatic	0.8885311													
+341	wt	chr16La	SYBR	Unknown	21.851112	78.7	Auto Tm				21.889557	21.889708	0.03867076	Automatic Ct		Automatic			Automatic	0.8885311													
+349	wt	chr16La	SYBR	Unknown	21.889557	78.9	Auto Tm				21.889557	21.889708	0.03867076	Automatic Ct		Automatic			Automatic	0.8885311													
+357	wt	chr16La	SYBR	Unknown	21.928453	78.5	Auto Tm				21.889557	21.889708	0.03867076	Automatic Ct		Automatic			Automatic	0.8885311													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+344	1	chr16Ra	SYBR	Unknown	22.398993	79.7	Auto Tm				22.446909	22.432787	0.029398734	Automatic Ct		Automatic			Automatic	1.0474191					true								
+352	1	chr16Ra	SYBR	Unknown	22.452461	79.7	Auto Tm				22.446909	22.432787	0.029398734	Automatic Ct		Automatic			Automatic	1.0474191													
+360	1	chr16Ra	SYBR	Unknown	22.446909	79.0	Auto Tm				22.446909	22.432787	0.029398734	Automatic Ct		Automatic			Automatic	1.0474191					true								
+367	2	chr16Ra	SYBR	Unknown	21.92569	79.5	Auto Tm				21.92569	21.91915	0.022396488	Automatic Ct		Automatic			Automatic	1.0474191													
+375	2	chr16Ra	SYBR	Unknown	21.937548	79.9	Auto Tm				21.92569	21.91915	0.022396488	Automatic Ct		Automatic			Automatic	1.0474191													
+383	2	chr16Ra	SYBR	Unknown	21.89421	79.3	Auto Tm				21.92569	21.91915	0.022396488	Automatic Ct		Automatic			Automatic	1.0474191													
+368	3	chr16Ra	SYBR	Unknown	21.546291	79.7	Auto Tm				21.546291	21.552542	0.031382654	Automatic Ct		Automatic			Automatic	1.0474191													
+376	3	chr16Ra	SYBR	Unknown	21.586578	79.9	Auto Tm				21.546291	21.552542	0.031382654	Automatic Ct		Automatic			Automatic	1.0474191													
+384	3	chr16Ra	SYBR	Unknown	21.524754	79.3	Auto Tm				21.546291	21.552542	0.031382654	Automatic Ct		Automatic			Automatic	1.0474191													
+343	wt	chr16Ra	SYBR	Unknown	22.117176	79.5	Auto Tm				22.117176	22.107084	0.017520238	Automatic Ct		Automatic			Automatic	1.0474191													
+351	wt	chr16Ra	SYBR	Unknown	22.117222	79.7	Auto Tm				22.117176	22.107084	0.017520238	Automatic Ct		Automatic			Automatic	1.0474191													
+359	wt	chr16Ra	SYBR	Unknown	22.086853	79.6	Auto Tm				22.117176	22.107084	0.017520238	Automatic Ct		Automatic			Automatic	1.0474191													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+
+NAP	LPL
+	
